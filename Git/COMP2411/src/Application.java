@@ -9,7 +9,7 @@ public class Application {
     public static void registerAccount() {
         String username, password, phoneNumber;
         Scanner scanner = new Scanner(System.in);
-
+        
     }
     public static void loginAccount() {
 
